@@ -1,7 +1,6 @@
 # Abhinav_JavaAssignment1_3
 //Pattern                                     
 public class Pattern {
-
 	public static void main(String args[]){
 	for (int i=1; i<=5; i++)
 	{
